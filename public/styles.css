@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #bbd9f3;
+  }
+  
+  h1 {
+    margin-bottom: 10px;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input[type="text"],
+  input[type="password"] {
+    width: 200px;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 8px 16px;
+    background-color: #0c92e6;
+    color: rgb(24, 23, 23);
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #ea4022;
+    border-radius: 4px;
+    color: white;
+  }
